@@ -1,0 +1,6 @@
+01	4.37	Open Reviews to check dealership feedback before following up with a customer.
+02	5.05	Use Email a customer when you want to invite an individual customer to leave feedback.
+03	4.68	Use the QR card or copy the review link when you need another way to share it.
+04	4.10	A source or sharing label tells you where a review came from or was shared.
+05	4.17	Check the visibility indicator to see whether a review appears on your site.
+06	4.61	Internal notes help your team follow up and stay separate from the public review.

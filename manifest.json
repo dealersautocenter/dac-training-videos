@@ -73,5 +73,95 @@
       "bytes": 1283603,
       "sha256": "c6998db9587eac935765876679057baa6221f428a635729ebfc184842837873c"
     }
+  },
+  "order-requests": {
+    "title": "Order Requests",
+    "secs": 32,
+    "file": "videos/order-requests.en.mp4",
+    "bytes": 863790,
+    "sha256": "fb991113996db15d44bbb31f9fee051734a1794f7ad91beabbef120e80e9dd95",
+    "ver": 1,
+    "es": {
+      "title": "Solicitudes de compra",
+      "secs": 42,
+      "file": "videos/order-requests.es.mp4",
+      "bytes": 1154273,
+      "sha256": "93ac29b05be117a7d6efaf2ba261b734f1ad7b5f8df1e8997215a7721423a578"
+    }
+  },
+  "connect-stripe": {
+    "title": "Connect Stripe",
+    "secs": 32,
+    "file": "videos/connect-stripe.en.mp4",
+    "bytes": 890742,
+    "sha256": "686da2e239b57b0a87a5fec81200506e3dce267fee2ae86ab29b689616fac6ed",
+    "ver": 1,
+    "es": {
+      "title": "Conectar Stripe",
+      "secs": 41,
+      "file": "videos/connect-stripe.es.mp4",
+      "bytes": 1122565,
+      "sha256": "54e81941f1432138d7f58893ad864855e3915b3479398527f8a6c9b52635606e"
+    }
+  },
+  "dealer-resources": {
+    "title": "Dealer Resources",
+    "secs": 34,
+    "file": "videos/dealer-resources.en.mp4",
+    "bytes": 1019686,
+    "sha256": "6db4cbde6e4b356932f4c26d7974217ce6a8d1890abd06dc60461b4257004b0f",
+    "ver": 1,
+    "es": {
+      "title": "Recursos para concesionarios",
+      "secs": 44,
+      "file": "videos/dealer-resources.es.mp4",
+      "bytes": 1358649,
+      "sha256": "6b4d7ecec1bdf057fd1c4eb3f3d52850738963c05dc7d9a319072d9811441f78"
+    }
+  },
+  "settings": {
+    "title": "Settings: Users",
+    "secs": 35,
+    "file": "videos/settings.en.mp4",
+    "bytes": 1006747,
+    "sha256": "4ae50e5368c15fb85dd77590f60529ed55826c506538ff32ef21b2e0bf45b578",
+    "ver": 1,
+    "es": {
+      "title": "Configuración de usuarios",
+      "secs": 42,
+      "file": "videos/settings.es.mp4",
+      "bytes": 1220511,
+      "sha256": "e3969a5f376e700df184b9a1ee854bc64c94827441825d40ddfdd753c8997f24"
+    }
+  },
+  "website-management": {
+    "title": "Website Manager",
+    "secs": 34,
+    "file": "videos/website-management.en.mp4",
+    "bytes": 939027,
+    "sha256": "c3030219e0d36ac3618f27eaa79e4538f4168180b7d4f5a4a8ca864b0bccfd34",
+    "ver": 1,
+    "es": {
+      "title": "Administrador del sitio web",
+      "secs": 45,
+      "file": "videos/website-management.es.mp4",
+      "bytes": 1261580,
+      "sha256": "72d49b8f120d5f6703d4b2d9fd283d63238b8a04e7ca16129c2372ed99d1e9cf"
+    }
+  },
+  "reviews": {
+    "title": "Reviews",
+    "secs": 31,
+    "file": "videos/reviews.en.mp4",
+    "bytes": 896234,
+    "sha256": "7f9590ddec356fe6cb6c0c85ab1f9e03035984d9dda06111dff4f184e7dd255c",
+    "ver": 1,
+    "es": {
+      "title": "Reseñas",
+      "secs": 41,
+      "file": "videos/reviews.es.mp4",
+      "bytes": 1176070,
+      "sha256": "e0e7546176e966d6250db5a8bec21ac8b48b897c0931b82ff8ab51e1dbe403d7"
+    }
   }
 }

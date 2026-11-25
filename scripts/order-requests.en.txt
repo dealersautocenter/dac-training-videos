@@ -1,0 +1,6 @@
+01	4.71	Open Order Requests to see orders from your website and deal links you sent.
+02	4.18	Start with the open queue when you need to see which requests still need attention.
+03	4.17	Use Approved to find requests the dealership has already accepted.
+04	4.95	Use the Documents sent and Out for signature tabs to follow progress after approval.
+05	5.05	Match the buyer, vehicle, price and sale type before opening the sample request.
+06	4.75	Choose Review on the correct card to see the request details before making a decision.

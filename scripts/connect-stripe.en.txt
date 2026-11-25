@@ -1,0 +1,6 @@
+01	4.75	This screen is a preview. It does not activate Stripe or start taking payments.
+02	4.35	When setup becomes available, you will be able to connect your own Stripe account.
+03	4.95	The preview describes accepting card and digital wallet payments directly from buyers.
+04	4.69	The planned payment options include collecting deposits and down payments online.
+05	5.35	The page also describes matching those payments with the dealership’s sales and invoices.
+06	3.96	Wait for the availability notice before trying to turn on this feature.
