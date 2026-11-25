@@ -43,5 +43,35 @@
       "bytes": 1478470,
       "sha256": "69cba84bb19b551f296123902cca5f33274a9ac15899e33a38285b73719d6424"
     }
+  },
+  "payment-center": {
+    "title": "Payment Center",
+    "secs": 39,
+    "file": "videos/payment-center.en.mp4",
+    "bytes": 1126830,
+    "sha256": "1cb0d9640aa534b78661acbf2f084ae97bc20162985189af2fd66d88027091f2",
+    "ver": 1,
+    "es": {
+      "title": "Centro de pagos",
+      "secs": 50,
+      "file": "videos/payment-center.es.mp4",
+      "bytes": 1550179,
+      "sha256": "699a217aad616f83ba5c750056a63dcca7db62f8dd8d9682d60a9cfe56aa48ab"
+    }
+  },
+  "filings": {
+    "title": "Filings Center",
+    "secs": 32,
+    "file": "videos/filings.en.mp4",
+    "bytes": 905121,
+    "sha256": "57fa38270d562ff276decca7154d18db59be3b53a63394deb7423ac7b567deb1",
+    "ver": 1,
+    "es": {
+      "title": "Centro de trámites",
+      "secs": 44,
+      "file": "videos/filings.es.mp4",
+      "bytes": 1283603,
+      "sha256": "c6998db9587eac935765876679057baa6221f428a635729ebfc184842837873c"
+    }
   }
 }
