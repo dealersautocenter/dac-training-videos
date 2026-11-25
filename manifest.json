@@ -168,30 +168,30 @@
     "title": "Messages",
     "secs": 32,
     "file": "videos/messages.en.mp4",
-    "bytes": 854026,
-    "sha256": "7e076e27428ecdd9ab0c9d559be66a876ead89e91c86e2ebcbd5f3a3629d099c",
-    "ver": 1,
+    "bytes": 906979,
+    "sha256": "3e74ce553227cabfefda362bbdc29ad9337dd381e75508cd46dd6ff4cf380261",
+    "ver": 2,
     "es": {
       "title": "Mensajes",
       "secs": 41,
       "file": "videos/messages.es.mp4",
-      "bytes": 1109010,
-      "sha256": "431fc5c85e4f44677706de780f5701f6f67d69b50af699d34df8994532b7acf5"
+      "bytes": 1197036,
+      "sha256": "c64d648a3240547e511f2714a2205d3e61425d7a4f4bcb3c002cd842e9e4ec63"
     }
   },
   "print-center": {
     "title": "Print Center",
     "secs": 32,
     "file": "videos/print-center.en.mp4",
-    "bytes": 908572,
-    "sha256": "dbc1a1df8fa5f3be3670e7de8288b0f5e4fe3158a8e649c427bbf31bea76dfd6",
-    "ver": 1,
+    "bytes": 963074,
+    "sha256": "faccb488afd872800a9b1ca67e7cf96eaae71db916c8fdaad2c12d9cdb2829c1",
+    "ver": 2,
     "es": {
       "title": "Centro de impresión",
       "secs": 40,
       "file": "videos/print-center.es.mp4",
-      "bytes": 1184798,
-      "sha256": "70a387bcec9b8c6d1b1364f3724f22a1104eb04382f855b234cda7dcc6df533d"
+      "bytes": 1221986,
+      "sha256": "df7c4a6aa99c557705fb2548206af1e849ccf1945aaeacff8feef78d4b075a7e"
     }
   },
   "deal-links": {
