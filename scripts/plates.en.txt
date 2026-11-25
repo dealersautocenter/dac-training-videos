@@ -1,0 +1,6 @@
+01	4.85	Open Plates and Tags to see the plates at your dealership and check which ones are available.
+02	5.41	The Buyer plates tracker separates the plates still available from those already issued to buyers.
+03	5.68	The dealer metal plate tracker shows available plates, plates out with drivers and the next expiration date.
+04	5.18	Check the temporary tag tracker for test drive and provisional tags and see how many are out now.
+05	6.37	To add plates, choose a county sheet, a single plate photo or the option to enter the numbers manually.
+06	6.37	Use Who has each plate to choose the purpose and vehicle. Record the time and mileage when the plate comes back.

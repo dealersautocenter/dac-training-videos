@@ -1,1 +1,47 @@
-{}
+{
+  "dashboard": {
+    "title": "Dashboard",
+    "secs": 39,
+    "file": "videos/dashboard.en.mp4",
+    "bytes": 1090252,
+    "sha256": "eb39fdfdfddf5aeb6e277ffd5deb86f4254d86d45a74a2bfc5be29e2622c2a2e",
+    "ver": 1,
+    "es": {
+      "title": "Panel principal",
+      "secs": 47,
+      "file": "videos/dashboard.es.mp4",
+      "bytes": 1451828,
+      "sha256": "bb1ac2b2eb18b0771dfc82ae5594a5898d79b4df6faf31da6e111704c6cd1713"
+    }
+  },
+  "plates": {
+    "title": "Plates & Tags",
+    "secs": 38,
+    "file": "videos/plates.en.mp4",
+    "bytes": 1115286,
+    "sha256": "8095fd82b746146ffeaa42896ce63f456af3ed3ebf3f3eab5cbf7740bfe3644b",
+    "ver": 1,
+    "es": {
+      "title": "Placas y permisos",
+      "secs": 48,
+      "file": "videos/plates.es.mp4",
+      "bytes": 1516830,
+      "sha256": "28834fb33b5810f35d5d3d05b310062ad77b137619c8be83ab09debcc29e6483"
+    }
+  },
+  "compliance": {
+    "title": "Compliance",
+    "secs": 37,
+    "file": "videos/compliance.en.mp4",
+    "bytes": 1045094,
+    "sha256": "1c437f626dd7f0c70579e4b1a77e528db5c71214da73867be742a5d40dc1ba27",
+    "ver": 1,
+    "es": {
+      "title": "Cumplimiento",
+      "secs": 48,
+      "file": "videos/compliance.es.mp4",
+      "bytes": 1478470,
+      "sha256": "69cba84bb19b551f296123902cca5f33274a9ac15899e33a38285b73719d6424"
+    }
+  }
+}

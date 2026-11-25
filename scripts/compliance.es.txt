@@ -1,0 +1,6 @@
+01	8.21	Abra Cumplimiento para revisar los documentos de las ventas finalizadas. Este ejemplo usa un concesionario ficticio.
+02	7.09	El promedio mensual ofrece una vista rápida de qué tan completos están los expedientes de las ventas.
+03	7.83	Use los tres grupos de puntuación para detectar expedientes pendientes y luego revise las ventas individuales.
+04	6.00	Seleccione el período de venta para cambiar los vehículos vendidos que aparecen en la lista.
+05	5.91	Revise una venta para ver su puntuación de cumplimiento y cuántos documentos siguen pendientes.
+06	8.57	Empiece por los expedientes pendientes. Registre un punto de la lista solo después de completar el trabajo correspondiente.

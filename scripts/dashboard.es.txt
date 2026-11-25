@@ -1,0 +1,6 @@
+01	7.87	Empiece en el panel y verifique el nombre del concesionario. Aquí usamos la cuenta ficticia de Demo Motors.
+02	5.25	Revise los asuntos que requieren atención antes de pasar a las demás tareas.
+03	7.59	Abra el inventario activo para revisar los vehículos anunciados. El número muestra un recuento rápido.
+04	6.71	Abra las solicitudes de pedido para revisar pedidos del sitio web y enlaces enviados a compradores.
+05	7.33	Use el centro de pagos para encontrar actividad, solicitudes e informes de pagos en un solo lugar.
+06	8.19	Use Print Center para buscar formularios comunes. Empiece por el documento que necesita para el vehículo o la venta.

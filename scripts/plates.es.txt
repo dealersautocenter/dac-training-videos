@@ -1,0 +1,6 @@
+01	7.00	Abra Placas y permisos para ver las placas del concesionario y consultar cuáles están disponibles.
+02	5.77	El indicador de placas para compradores separa las disponibles de las que ya se entregaron.
+03	8.32	El indicador de placas metálicas muestra las disponibles, las asignadas a conductores y el próximo vencimiento.
+04	7.81	Revise los permisos temporales para pruebas de manejo y usos provisionales, y consulte cuántos están prestados.
+05	6.80	Para agregar placas, elija una hoja del condado, una foto individual o la opción para escribir los números.
+06	8.03	Use Quién tiene cada placa para elegir el motivo y el vehículo. Registre la hora y el kilometraje cuando regrese.
