@@ -1,0 +1,6 @@
+01	4.28	Open Sell Inventory and choose the exact vehicle you plan to sell.
+02	4.48	Match the year, make, model, and stock details before starting the sale.
+03	4.19	Choose the sale type first so the following steps collect the right information.
+04	4.40	Use the Buyer step to connect the correct customer to the selected vehicle.
+05	6.93	Review the Prices and Fees step, including applicable taxes and any buyer plate charge, before preparing forms.
+06	6.57	Use the Forms step to review the documents. If required items are missing, complete them before finalizing.

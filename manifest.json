@@ -163,5 +163,110 @@
       "bytes": 1176070,
       "sha256": "e0e7546176e966d6250db5a8bec21ac8b48b897c0931b82ff8ab51e1dbe403d7"
     }
+  },
+  "messages": {
+    "title": "Messages",
+    "secs": 32,
+    "file": "videos/messages.en.mp4",
+    "bytes": 854026,
+    "sha256": "7e076e27428ecdd9ab0c9d559be66a876ead89e91c86e2ebcbd5f3a3629d099c",
+    "ver": 1,
+    "es": {
+      "title": "Mensajes",
+      "secs": 41,
+      "file": "videos/messages.es.mp4",
+      "bytes": 1109010,
+      "sha256": "431fc5c85e4f44677706de780f5701f6f67d69b50af699d34df8994532b7acf5"
+    }
+  },
+  "print-center": {
+    "title": "Print Center",
+    "secs": 32,
+    "file": "videos/print-center.en.mp4",
+    "bytes": 908572,
+    "sha256": "dbc1a1df8fa5f3be3670e7de8288b0f5e4fe3158a8e649c427bbf31bea76dfd6",
+    "ver": 1,
+    "es": {
+      "title": "Centro de impresión",
+      "secs": 40,
+      "file": "videos/print-center.es.mp4",
+      "bytes": 1184798,
+      "sha256": "70a387bcec9b8c6d1b1364f3724f22a1104eb04382f855b234cda7dcc6df533d"
+    }
+  },
+  "deal-links": {
+    "title": "Deal Links",
+    "secs": 32,
+    "file": "videos/deal-links.en.mp4",
+    "bytes": 907341,
+    "sha256": "7475e604a2eec692714721bf0daca788186fabbd8acfb9618ad99d2e5916c800",
+    "ver": 1,
+    "es": {
+      "title": "Enlaces de venta",
+      "secs": 38,
+      "file": "videos/deal-links.es.mp4",
+      "bytes": 1080658,
+      "sha256": "e940bf118d394f17ea3f558dad552dbe801a6380c0183fa964589c2e29422637"
+    }
+  },
+  "draft": {
+    "title": "Drafts",
+    "secs": 36,
+    "file": "videos/draft.en.mp4",
+    "bytes": 919931,
+    "sha256": "a311e4b3f0e2c7a686c0337b4c204527ca6461b32b3d1625a1e3674e8d8c72c6",
+    "ver": 1,
+    "es": {
+      "title": "Borradores",
+      "secs": 46,
+      "file": "videos/draft.es.mp4",
+      "bytes": 1250600,
+      "sha256": "b1e1df50205001a08e5a642d3ff53da36ac23b9ce9b01eddfeb60a4c4b29a653"
+    }
+  },
+  "loan-apps": {
+    "title": "Loan Applications",
+    "secs": 39,
+    "file": "videos/loan-apps.en.mp4",
+    "bytes": 1088861,
+    "sha256": "c086a26fd8192103c1f34c2f336532932a44313cc97f6aa53daa35ce3293bf5d",
+    "ver": 1,
+    "es": {
+      "title": "Solicitudes de préstamo",
+      "secs": 52,
+      "file": "videos/loan-apps.es.mp4",
+      "bytes": 1602524,
+      "sha256": "59036700b57f7a33346d50363d0c4826cac01d27ff6f6c8caff2f15dea0b95f2"
+    }
+  },
+  "crm-loan-app": {
+    "title": "CRM: Loan Applications",
+    "secs": 39,
+    "file": "videos/crm-loan-app.en.mp4",
+    "bytes": 1072184,
+    "sha256": "785b9998e48142b3d0aba10e895b79f49acd5346c54e43316b8f52106f80c428",
+    "ver": 1,
+    "es": {
+      "title": "CRM: Solicitudes de préstamo",
+      "secs": 51,
+      "file": "videos/crm-loan-app.es.mp4",
+      "bytes": 1539282,
+      "sha256": "7fadc4d179848487c306773acbe3ce35965af007f48fe715f95e2185c93bfc61"
+    }
+  },
+  "sell-inventory": {
+    "title": "Sell Inventory",
+    "secs": 35,
+    "file": "videos/sell-inventory.en.mp4",
+    "bytes": 1030857,
+    "sha256": "7fab49783d8c90478d149758b873ebf849ff324af3121112a420408e8a833abf",
+    "ver": 1,
+    "es": {
+      "title": "Venta de inventario",
+      "secs": 45,
+      "file": "videos/sell-inventory.es.mp4",
+      "bytes": 1422496,
+      "sha256": "79da58aee5a773c9f01ec57a7e2c593021f5876da685b7414db856b874ced644"
+    }
   }
 }

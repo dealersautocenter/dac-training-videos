@@ -1,0 +1,6 @@
+01	5.45	Abra Mensajes para buscar conversaciones que ya iniciaron con su concesionario.
+02	5.36	Busque al cliente de ejemplo por su nombre antes de leer o responder la conversación.
+03	6.64	La etiqueta Nuevo le ayuda a identificar las conversaciones que todavía requieren atención.
+04	6.48	Verifique el vehículo que aparece en el mensaje antes de hablar de precios o disponibilidad.
+05	5.90	Lea la vista previa para distinguir una oferta de una consulta de disponibilidad.
+06	7.13	Abra la conversación y escriba su respuesta. Para nuevos prospectos, empiece en la bandeja del CRM.

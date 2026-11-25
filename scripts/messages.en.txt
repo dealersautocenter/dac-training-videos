@@ -1,0 +1,6 @@
+01	4.42	Open Messages to find conversations already started with your dealership.
+02	4.25	Find the sample customer by name before reading or replying to the conversation.
+03	3.88	A New badge helps you spot conversations that still need attention.
+04	4.53	Check the vehicle shown on the message before referring to a price or availability.
+05	4.24	Read the preview to distinguish an offer from a general availability question.
+06	6.84	Open the conversation and type your response in the reply box. For new leads, start in the CRM inbox.
