@@ -1,0 +1,6 @@
+01	4.39	Open Website Manager to check the public website and its current theme.
+02	5.20	The active theme identifies the design currently used by the dealership’s public website.
+03	4.82	Check the subdomain and custom domain to verify which addresses display the site.
+04	4.91	Check the active inventory count to see how many vehicles are available for the site display.
+05	5.55	Open Themes to preview a design before choosing it. A theme change requires the owner’s code.
+06	4.74	Use View live site to verify what a customer sees after a website change.

@@ -1,0 +1,6 @@
+01	5.74	Abra Configuración y seleccione Usuarios para ver qué cuentas del equipo están activas.
+02	7.23	Revise la visibilidad del equipo para decidir si Ventas verá sus propios resultados o los de todo el equipo.
+03	5.74	Seleccione Agregar usuario cuando necesite invitar a otro integrante del equipo.
+04	5.91	Revise el puesto y el rol de acceso. Los fotógrafos usan el área de Fotos.
+05	6.62	Use Permisos para la persona seleccionada cuando necesite una excepción a su acceso habitual.
+06	6.97	Revise Roles y permisos antes de otorgar acceso. El propietario siempre tiene acceso completo.

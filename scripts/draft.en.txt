@@ -1,0 +1,6 @@
+01	3.75	Start on the dashboard and look for Draft under Tools and Admin.
+02	4.27	Open the Draft tile when you need to return to work you have not finalized.
+03	5.18	The Draft page is for unfinished contracts, quotes, and inventory entries.
+04	6.92	The training snapshot shows the Draft page without sample records. In your account, select the work you want to resume.
+05	5.71	Before finishing a draft, check that you opened the intended contract, quote, or vehicle entry.
+06	5.77	Finish the item in its original workflow after checking the details and completing any missing fields.

@@ -1,0 +1,6 @@
+01	4.89	Empiece en el tablero y busque Borradores en Herramientas y administración.
+02	5.63	Abra Borradores cuando necesite volver a un trabajo que todavía no ha finalizado.
+03	6.94	La página de Borradores es para contratos, cotizaciones y registros de inventario sin finalizar.
+04	8.65	La vista de capacitación muestra Borradores sin registros de ejemplo. En su cuenta, seleccione el trabajo que desea retomar.
+05	7.30	Antes de finalizar un borrador, confirme que abrió el contrato, la cotización o el vehículo correcto.
+06	7.86	Finalice el elemento en su flujo original después de verificar los datos y completar los campos que falten.

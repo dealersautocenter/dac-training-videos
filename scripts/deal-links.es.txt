@@ -1,0 +1,6 @@
+01	6.03	Abra Enlaces de venta en el tablero para dar seguimiento a los enlaces enviados a compradores.
+02	4.64	La lista muestra las ventas en curso y lo que ya hizo cada comprador.
+03	5.89	Use Abiertos para concentrarse en enlaces activos o Todos para consultar el historial.
+04	5.47	Consulte la guía de progreso para saber si el comprador abrió, envió, pagó o firmó.
+05	5.17	Verifique el comprador y el vehículo antes de realizar una acción sobre un enlace.
+06	6.29	Elija la acción que corresponda al estado, como revisar una solicitud o reenviar el enlace.

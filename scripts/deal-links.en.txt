@@ -1,0 +1,6 @@
+01	4.46	Open Deal links on the dashboard to track sale links already sent to buyers.
+02	4.98	The list shows sales in progress and lets you see what each buyer has done so far.
+03	4.44	Use Open to focus on active links or All to look up the complete history.
+04	5.33	Read the progress guide to tell whether a buyer has opened, submitted, paid, or signed.
+05	3.04	Match the buyer and vehicle before you act on a link.
+06	5.47	Choose the appropriate action for the status, such as reviewing a submission or resending a link.

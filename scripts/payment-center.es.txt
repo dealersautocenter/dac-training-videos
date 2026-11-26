@@ -1,0 +1,6 @@
+01	9.07	Abra Payment Center para consultar los cobros, las solicitudes de pago, los informes y los desembolsos del concesionario de ejemplo.
+02	7.38	Revise cuánto cobró este mes y consulte el total de comisiones por separado al conciliar su estado de cuenta.
+03	6.78	Consulte el total de proveedores para saber cuánto les pagó el concesionario durante el mes actual.
+04	7.95	Abra Pagos recibidos para encontrar transacciones como depósitos, anticipos, pagos de facturas y reembolsos.
+05	7.29	Use Solicitar un pago cuando necesite enviarle por correo electrónico un enlace de pago a un comprador.
+06	6.71	Abra el estado de cuenta mensual o descargue el archivo CSV para que su contador concilie el mes.

@@ -1,0 +1,6 @@
+01	5.58	Abra Venta de inventario y elija el vehículo exacto que tiene previsto vender.
+02	6.40	Verifique el año, la marca, el modelo y los datos de inventario antes de iniciar la venta.
+03	6.19	Elija primero el tipo de venta para que los pasos siguientes recopilen la información correcta.
+04	5.68	Use el paso Comprador para asociar al cliente correcto con el vehículo seleccionado.
+05	8.52	Revise Precios y cargos, incluidos los impuestos y cargos de placa que correspondan, antes de preparar los formularios.
+06	7.85	Use Formularios para revisar los documentos. Si faltan requisitos, complételos antes de finalizar.

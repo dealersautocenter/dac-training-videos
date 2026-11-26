@@ -1,0 +1,6 @@
+01	6.32	Abra el administrador del sitio web para revisar el sitio público y su tema actual.
+02	6.11	El tema activo identifica el diseño que usa el sitio público del concesionario.
+03	7.22	Revise el subdominio y el dominio personalizado para confirmar qué direcciones muestran el sitio.
+04	7.52	Revise el total de inventario activo para ver cuántos vehículos están disponibles para mostrar en el sitio.
+05	7.31	Abra Temas para ver un diseño antes de elegirlo. Para cambiarlo se requiere el código del propietario.
+06	6.14	Use Ver sitio en vivo para verificar qué ve el cliente después de cambiar el sitio web.

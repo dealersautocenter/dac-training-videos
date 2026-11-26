@@ -1,0 +1,6 @@
+01	6.56	Open Compliance to review the paperwork status for completed sales. This walkthrough uses a fictional dealership.
+02	4.70	The monthly average gives you a quick look at how complete your completed sale files are.
+03	5.84	Use the three score groups to spot files that need more work, then look at the individual deals.
+04	4.39	Choose the sale date range to change which sold vehicles appear in the list.
+05	5.03	Look at an individual deal to see its completion score and the number of items still missing.
+06	6.54	Start with the files that need attention. Record a checklist item only after the corresponding work is complete.

@@ -1,0 +1,6 @@
+01	4.18	Open Settings and select Users to see which team accounts are active.
+02	6.46	Review Team visibility to decide whether Sales users see just their own results or the whole team’s results.
+03	3.26	Start with Add User when you need to invite another team member.
+04	4.81	Check the job and access role. A photographer uses the Photos workspace.
+05	6.07	Use Permissions for the selected person when that user needs an exception to their standard access.
+06	5.48	Review Roles and Permissions before granting access. The owner always has full access.

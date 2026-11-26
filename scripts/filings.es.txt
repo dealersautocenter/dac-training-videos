@@ -1,0 +1,6 @@
+01	7.11	Abra el Centro de trámites para consultar en un solo lugar los próximos plazos del concesionario de ejemplo.
+02	6.27	Empiece por el próximo vencimiento para ver qué trámite requiere atención primero y cuándo vence.
+03	6.00	Revise la sección del condado para ver el próximo trámite local y cuántos siguen pendientes.
+04	7.87	Revise la sección de licencias por separado para consultar la fecha de renovación de su licencia de concesionario.
+05	6.03	Abra Todos los trámites para revisar las entradas del calendario de su concesionario.
+06	6.76	Use el Historial cuando necesite encontrar un trámite completado o consultar su comprobante.

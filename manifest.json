@@ -1,1 +1,272 @@
-{}
+{
+  "dashboard": {
+    "title": "Dashboard",
+    "secs": 39,
+    "file": "videos/dashboard.en.mp4",
+    "bytes": 1090252,
+    "sha256": "eb39fdfdfddf5aeb6e277ffd5deb86f4254d86d45a74a2bfc5be29e2622c2a2e",
+    "ver": 1,
+    "es": {
+      "title": "Panel principal",
+      "secs": 47,
+      "file": "videos/dashboard.es.mp4",
+      "bytes": 1451828,
+      "sha256": "bb1ac2b2eb18b0771dfc82ae5594a5898d79b4df6faf31da6e111704c6cd1713"
+    }
+  },
+  "plates": {
+    "title": "Plates & Tags",
+    "secs": 38,
+    "file": "videos/plates.en.mp4",
+    "bytes": 1115286,
+    "sha256": "8095fd82b746146ffeaa42896ce63f456af3ed3ebf3f3eab5cbf7740bfe3644b",
+    "ver": 1,
+    "es": {
+      "title": "Placas y permisos",
+      "secs": 48,
+      "file": "videos/plates.es.mp4",
+      "bytes": 1516830,
+      "sha256": "28834fb33b5810f35d5d3d05b310062ad77b137619c8be83ab09debcc29e6483"
+    }
+  },
+  "compliance": {
+    "title": "Compliance",
+    "secs": 37,
+    "file": "videos/compliance.en.mp4",
+    "bytes": 1045094,
+    "sha256": "1c437f626dd7f0c70579e4b1a77e528db5c71214da73867be742a5d40dc1ba27",
+    "ver": 1,
+    "es": {
+      "title": "Cumplimiento",
+      "secs": 48,
+      "file": "videos/compliance.es.mp4",
+      "bytes": 1478470,
+      "sha256": "69cba84bb19b551f296123902cca5f33274a9ac15899e33a38285b73719d6424"
+    }
+  },
+  "payment-center": {
+    "title": "Payment Center",
+    "secs": 39,
+    "file": "videos/payment-center.en.mp4",
+    "bytes": 1126830,
+    "sha256": "1cb0d9640aa534b78661acbf2f084ae97bc20162985189af2fd66d88027091f2",
+    "ver": 1,
+    "es": {
+      "title": "Centro de pagos",
+      "secs": 50,
+      "file": "videos/payment-center.es.mp4",
+      "bytes": 1550179,
+      "sha256": "699a217aad616f83ba5c750056a63dcca7db62f8dd8d9682d60a9cfe56aa48ab"
+    }
+  },
+  "filings": {
+    "title": "Filings Center",
+    "secs": 32,
+    "file": "videos/filings.en.mp4",
+    "bytes": 905121,
+    "sha256": "57fa38270d562ff276decca7154d18db59be3b53a63394deb7423ac7b567deb1",
+    "ver": 1,
+    "es": {
+      "title": "Centro de trámites",
+      "secs": 44,
+      "file": "videos/filings.es.mp4",
+      "bytes": 1283603,
+      "sha256": "c6998db9587eac935765876679057baa6221f428a635729ebfc184842837873c"
+    }
+  },
+  "order-requests": {
+    "title": "Order Requests",
+    "secs": 32,
+    "file": "videos/order-requests.en.mp4",
+    "bytes": 863790,
+    "sha256": "fb991113996db15d44bbb31f9fee051734a1794f7ad91beabbef120e80e9dd95",
+    "ver": 1,
+    "es": {
+      "title": "Solicitudes de compra",
+      "secs": 42,
+      "file": "videos/order-requests.es.mp4",
+      "bytes": 1154273,
+      "sha256": "93ac29b05be117a7d6efaf2ba261b734f1ad7b5f8df1e8997215a7721423a578"
+    }
+  },
+  "connect-stripe": {
+    "title": "Connect Stripe",
+    "secs": 32,
+    "file": "videos/connect-stripe.en.mp4",
+    "bytes": 890742,
+    "sha256": "686da2e239b57b0a87a5fec81200506e3dce267fee2ae86ab29b689616fac6ed",
+    "ver": 1,
+    "es": {
+      "title": "Conectar Stripe",
+      "secs": 41,
+      "file": "videos/connect-stripe.es.mp4",
+      "bytes": 1122565,
+      "sha256": "54e81941f1432138d7f58893ad864855e3915b3479398527f8a6c9b52635606e"
+    }
+  },
+  "dealer-resources": {
+    "title": "Dealer Resources",
+    "secs": 34,
+    "file": "videos/dealer-resources.en.mp4",
+    "bytes": 1019686,
+    "sha256": "6db4cbde6e4b356932f4c26d7974217ce6a8d1890abd06dc60461b4257004b0f",
+    "ver": 1,
+    "es": {
+      "title": "Recursos para concesionarios",
+      "secs": 44,
+      "file": "videos/dealer-resources.es.mp4",
+      "bytes": 1358649,
+      "sha256": "6b4d7ecec1bdf057fd1c4eb3f3d52850738963c05dc7d9a319072d9811441f78"
+    }
+  },
+  "settings": {
+    "title": "Settings: Users",
+    "secs": 35,
+    "file": "videos/settings.en.mp4",
+    "bytes": 1006747,
+    "sha256": "4ae50e5368c15fb85dd77590f60529ed55826c506538ff32ef21b2e0bf45b578",
+    "ver": 1,
+    "es": {
+      "title": "Configuración de usuarios",
+      "secs": 42,
+      "file": "videos/settings.es.mp4",
+      "bytes": 1220511,
+      "sha256": "e3969a5f376e700df184b9a1ee854bc64c94827441825d40ddfdd753c8997f24"
+    }
+  },
+  "website-management": {
+    "title": "Website Manager",
+    "secs": 34,
+    "file": "videos/website-management.en.mp4",
+    "bytes": 939027,
+    "sha256": "c3030219e0d36ac3618f27eaa79e4538f4168180b7d4f5a4a8ca864b0bccfd34",
+    "ver": 1,
+    "es": {
+      "title": "Administrador del sitio web",
+      "secs": 45,
+      "file": "videos/website-management.es.mp4",
+      "bytes": 1261580,
+      "sha256": "72d49b8f120d5f6703d4b2d9fd283d63238b8a04e7ca16129c2372ed99d1e9cf"
+    }
+  },
+  "reviews": {
+    "title": "Reviews",
+    "secs": 31,
+    "file": "videos/reviews.en.mp4",
+    "bytes": 896234,
+    "sha256": "7f9590ddec356fe6cb6c0c85ab1f9e03035984d9dda06111dff4f184e7dd255c",
+    "ver": 1,
+    "es": {
+      "title": "Reseñas",
+      "secs": 41,
+      "file": "videos/reviews.es.mp4",
+      "bytes": 1176070,
+      "sha256": "e0e7546176e966d6250db5a8bec21ac8b48b897c0931b82ff8ab51e1dbe403d7"
+    }
+  },
+  "messages": {
+    "title": "Messages",
+    "secs": 32,
+    "file": "videos/messages.en.mp4",
+    "bytes": 906979,
+    "sha256": "3e74ce553227cabfefda362bbdc29ad9337dd381e75508cd46dd6ff4cf380261",
+    "ver": 2,
+    "es": {
+      "title": "Mensajes",
+      "secs": 41,
+      "file": "videos/messages.es.mp4",
+      "bytes": 1197036,
+      "sha256": "c64d648a3240547e511f2714a2205d3e61425d7a4f4bcb3c002cd842e9e4ec63"
+    }
+  },
+  "print-center": {
+    "title": "Print Center",
+    "secs": 32,
+    "file": "videos/print-center.en.mp4",
+    "bytes": 963074,
+    "sha256": "faccb488afd872800a9b1ca67e7cf96eaae71db916c8fdaad2c12d9cdb2829c1",
+    "ver": 2,
+    "es": {
+      "title": "Centro de impresión",
+      "secs": 40,
+      "file": "videos/print-center.es.mp4",
+      "bytes": 1221986,
+      "sha256": "df7c4a6aa99c557705fb2548206af1e849ccf1945aaeacff8feef78d4b075a7e"
+    }
+  },
+  "deal-links": {
+    "title": "Deal Links",
+    "secs": 32,
+    "file": "videos/deal-links.en.mp4",
+    "bytes": 907341,
+    "sha256": "7475e604a2eec692714721bf0daca788186fabbd8acfb9618ad99d2e5916c800",
+    "ver": 1,
+    "es": {
+      "title": "Enlaces de venta",
+      "secs": 38,
+      "file": "videos/deal-links.es.mp4",
+      "bytes": 1080658,
+      "sha256": "e940bf118d394f17ea3f558dad552dbe801a6380c0183fa964589c2e29422637"
+    }
+  },
+  "draft": {
+    "title": "Drafts",
+    "secs": 36,
+    "file": "videos/draft.en.mp4",
+    "bytes": 919931,
+    "sha256": "a311e4b3f0e2c7a686c0337b4c204527ca6461b32b3d1625a1e3674e8d8c72c6",
+    "ver": 1,
+    "es": {
+      "title": "Borradores",
+      "secs": 46,
+      "file": "videos/draft.es.mp4",
+      "bytes": 1250600,
+      "sha256": "b1e1df50205001a08e5a642d3ff53da36ac23b9ce9b01eddfeb60a4c4b29a653"
+    }
+  },
+  "loan-apps": {
+    "title": "Loan Applications",
+    "secs": 39,
+    "file": "videos/loan-apps.en.mp4",
+    "bytes": 1088861,
+    "sha256": "c086a26fd8192103c1f34c2f336532932a44313cc97f6aa53daa35ce3293bf5d",
+    "ver": 1,
+    "es": {
+      "title": "Solicitudes de préstamo",
+      "secs": 52,
+      "file": "videos/loan-apps.es.mp4",
+      "bytes": 1602524,
+      "sha256": "59036700b57f7a33346d50363d0c4826cac01d27ff6f6c8caff2f15dea0b95f2"
+    }
+  },
+  "crm-loan-app": {
+    "title": "CRM: Loan Applications",
+    "secs": 39,
+    "file": "videos/crm-loan-app.en.mp4",
+    "bytes": 1072184,
+    "sha256": "785b9998e48142b3d0aba10e895b79f49acd5346c54e43316b8f52106f80c428",
+    "ver": 1,
+    "es": {
+      "title": "CRM: Solicitudes de préstamo",
+      "secs": 51,
+      "file": "videos/crm-loan-app.es.mp4",
+      "bytes": 1539282,
+      "sha256": "7fadc4d179848487c306773acbe3ce35965af007f48fe715f95e2185c93bfc61"
+    }
+  },
+  "sell-inventory": {
+    "title": "Sell Inventory",
+    "secs": 35,
+    "file": "videos/sell-inventory.en.mp4",
+    "bytes": 1030857,
+    "sha256": "7fab49783d8c90478d149758b873ebf849ff324af3121112a420408e8a833abf",
+    "ver": 1,
+    "es": {
+      "title": "Venta de inventario",
+      "secs": 45,
+      "file": "videos/sell-inventory.es.mp4",
+      "bytes": 1422496,
+      "sha256": "79da58aee5a773c9f01ec57a7e2c593021f5876da685b7414db856b874ced644"
+    }
+  }
+}

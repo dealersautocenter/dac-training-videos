@@ -1,0 +1,6 @@
+01	6.01	Open Loan Applications to see financing requests submitted through your dealership’s secure application link.
+02	5.09	Use the dealership application link or its QR code to invite a buyer to apply.
+03	5.48	Copy the link to share it directly, or use the sharing buttons shown on the application card.
+04	6.28	Filter by status to focus on new, reviewed, approved, declined, or conditioned applications.
+05	5.28	Check the applicant, vehicle, and loan amount before opening the corresponding application.
+06	7.07	Review the protected application in the dealership workspace. Date of birth and income are cleared after thirty days.

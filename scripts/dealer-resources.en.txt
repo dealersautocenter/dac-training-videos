@@ -1,0 +1,6 @@
+01	6.85	Open Dealer Resources to find vendors by category, including service contracts, towing, and auctions.
+02	4.82	Choose a search radius to limit the results to vendors near the ZIP code you entered.
+03	4.81	Use the sample result to confirm the vendor name and distance before contacting the vendor.
+04	5.13	Use Call or Directions for a vendor you want to reach. Add a note for your own follow-up.
+05	4.38	Use the star to save a vendor and My favorites to find that vendor later.
+06	4.06	Use Add my own vendor to save a vendor privately for this dealership.

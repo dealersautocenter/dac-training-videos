@@ -1,0 +1,6 @@
+01	6.15	Abra Print Center para buscar los formularios de vehículos y ventas que usa el concesionario.
+02	5.69	Elija la guía del comprador correspondiente y confirme el idioma antes de imprimirla.
+03	5.22	Elija la guía del comprador en español cuando necesite una copia en ese idioma.
+04	6.04	Use la opción combinada cuando necesite la etiqueta de la ventana y la guía del comprador.
+05	5.64	Use el informe de condición de llegada para documentar el estado del vehículo al recibirlo.
+06	6.87	Verifique el nombre y número del formulario antes de elegir un documento de título o inspección.

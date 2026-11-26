@@ -1,0 +1,6 @@
+01	6.15	Esta pantalla es una vista previa. No activa Stripe ni empieza a recibir pagos.
+02	5.96	Cuando la configuración esté disponible, podrá conectar su propia cuenta de Stripe.
+03	6.87	La vista previa describe cómo aceptar pagos de compradores con tarjeta y billetera digital.
+04	5.68	Entre las opciones previstas está el cobro en línea de depósitos y anticipos.
+05	6.76	La página también describe cómo conciliar esos pagos con las ventas y facturas del concesionario.
+06	5.63	Espere el aviso de disponibilidad antes de intentar activar esta función.

@@ -1,0 +1,6 @@
+01	4.71	Open Print Center to find the dealership’s commonly used vehicle and sale forms.
+02	4.85	Choose the appropriate Buyer’s Guide for the vehicle and confirm the language before printing.
+03	3.69	Choose the Spanish Buyer’s Guide when a Spanish copy is needed.
+04	4.96	Use the combined option when you need both a window sticker and a Buyer’s Guide.
+05	5.34	Use Arrival Condition Report to document vehicle condition when inventory arrives.
+06	4.61	Check the form name and number before choosing a title or inspection document.

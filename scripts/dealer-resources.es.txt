@@ -1,0 +1,6 @@
+01	8.64	Abra Recursos para concesionarios para buscar proveedores por categoría, como contratos de servicio, grúas y subastas.
+02	7.26	Elija un radio de búsqueda para limitar los resultados a proveedores cerca del código postal ingresado.
+03	6.80	Use el resultado de ejemplo para verificar el nombre y la distancia antes de contactar al proveedor.
+04	6.73	Use Llamar o Indicaciones para contactar al proveedor. Agregue una nota para su seguimiento.
+05	4.86	Use la estrella para guardar un proveedor y Mis favoritos para encontrarlo después.
+06	5.71	Use Agregar mi propio proveedor para guardar un proveedor de forma privada para este concesionario.

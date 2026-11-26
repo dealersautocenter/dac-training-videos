@@ -1,0 +1,6 @@
+01	6.40	Abra Reseñas para revisar los comentarios del concesionario antes de dar seguimiento a un cliente.
+02	5.85	Use Enviar correo a un cliente cuando quiera invitar a una persona a dejar su opinión.
+03	6.54	Use la tarjeta con código QR o copie el enlace cuando necesite otra forma de compartirlo.
+04	6.35	La etiqueta de origen o publicación indica de dónde viene una reseña o dónde se compartió.
+05	6.10	Revise el indicador de visibilidad para saber si una reseña aparece en su sitio.
+06	5.64	Las notas internas ayudan a dar seguimiento y se mantienen separadas de la reseña pública.

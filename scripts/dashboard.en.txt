@@ -1,0 +1,6 @@
+01	6.07	Start on the dashboard and check the dealership name. Here we are using the fictional Demo Motors account.
+02	4.66	Check Needs your attention for items that may need follow-up before you move to other work.
+03	6.55	Open Active Inventory to work with vehicles that are currently listed. The number gives you a quick inventory count.
+04	5.14	Go to Order Requests to review orders from the website and deal links sent to buyers.
+05	5.20	Use Payment Center to find payment activity, requests and reporting in one place.
+06	6.88	Use Print Center to find commonly used forms and printouts. Start with the form you need for the current vehicle or deal.

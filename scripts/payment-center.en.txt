@@ -1,0 +1,6 @@
+01	7.31	Open Payment Center to see the sample dealership’s collections, payment requests, reports, and payouts in one place.
+02	5.63	Check the amount collected this month, then use the separate fees total when you reconcile your statement.
+03	5.31	Use the vendor total to see how much the dealership paid outside vendors in the current month.
+04	6.92	Open Payments received to find transactions such as deposits, down payments, invoice payments, and refunds.
+05	4.33	Use Request a payment when you need to email a payment link to a buyer.
+06	5.58	Open the monthly statement or download the CSV for your accountant to reconcile the month.

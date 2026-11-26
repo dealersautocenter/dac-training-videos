@@ -1,0 +1,6 @@
+01	5.71	Open Loan App from the CRM area to work with applications in your dealership’s secure workspace.
+02	5.02	Use the dealership application link or its QR code to invite a buyer to apply.
+03	5.36	Copy the link to share it directly, or use the sharing buttons shown on the application card.
+04	6.64	Filter by status to focus on new, reviewed, approved, declined, or conditioned applications.
+05	5.06	Check the applicant, vehicle, and loan amount before opening the corresponding application.
+06	6.75	Review the protected application in the dealership workspace. Date of birth and income are cleared after thirty days.

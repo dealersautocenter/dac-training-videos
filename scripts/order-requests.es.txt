@@ -1,0 +1,6 @@
+01	7.06	Abra Solicitudes de compra para ver los pedidos de su sitio web y de los enlaces de venta que envió.
+02	5.63	Empiece por la lista de solicitudes abiertas para ver cuáles requieren atención.
+03	5.57	Use Aprobadas para encontrar las solicitudes que el concesionario ya aceptó.
+04	5.93	Use Documentos enviados y Pendientes de firma para dar seguimiento después de la aprobación.
+05	7.16	Compare el comprador, el vehículo, el precio y el tipo de venta antes de abrir la solicitud.
+06	6.86	Seleccione Revisar en la tarjeta correcta para consultar los detalles antes de tomar una decisión.

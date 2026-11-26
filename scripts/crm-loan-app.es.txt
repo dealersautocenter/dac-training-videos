@@ -1,0 +1,6 @@
+01	6.99	Abra Solicitudes de préstamo en el CRM para trabajar en el área segura de su concesionario.
+02	9.26	Use el enlace de solicitud del concesionario o su código QR para invitar al comprador a presentar una solicitud.
+03	6.63	Copie el enlace para compartirlo directamente o use los botones de la tarjeta de solicitud.
+04	8.14	Filtre por estado para concentrarse en solicitudes nuevas, revisadas, aprobadas, rechazadas o condicionadas.
+05	6.70	Verifique el solicitante, el vehículo y el monto antes de abrir la solicitud correspondiente.
+06	8.72	Revise la solicitud protegida en el área del concesionario. La fecha de nacimiento y los ingresos se eliminan después de treinta días.
